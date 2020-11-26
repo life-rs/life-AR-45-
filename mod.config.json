@@ -1,0 +1,37 @@
+{
+    "name": "AMR",
+    "author": "life",
+    "description": "Anti-Material Rifle",
+    "license": "MIT",
+    "version": "1.0.1",
+    "dependencies": [],
+    "autoupdate": true,
+    "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-AMR-/main/updater.json",
+    "src":{
+      "src/modloader.js": "CacheModLoad",
+      "src/categories.js": "CacheModLoad"
+    },
+    "folders": [
+    "files/assort/ragfair",
+    "files/items",
+    "files/locales/en",
+    "files/templates"
+    ],
+    "filenames": [
+      "45-barrel",
+      "45-drum",
+      "45-receiver",
+      "45-shortbarrel",
+      "45-standard",
+      "AR-45"
+    ],
+    "categ": [
+      "test/handbook",
+      "test/templates"
+    ],
+    "things": [
+      "CustomAR-45",
+      "AR-45Parts",
+      "CustomAmmo"
+    ]
+  }
