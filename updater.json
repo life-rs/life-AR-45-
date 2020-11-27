@@ -1,9 +1,9 @@
 {
     "name": "AR45",
     "author": "life",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "forceDowngrade": false,
-    "downloadUpdateUrl": "https://github.com/life-rs/life-AR-45-/archive/main.zip",
+    "downloadUpdateUrl": "https://github.com/life-rs/life-AR45/archive/main.zip",
     "excludeFromUpdate": [
         "README.md"
     ]
