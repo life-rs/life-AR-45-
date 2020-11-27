@@ -1,5 +1,5 @@
 exports.mod = (mod_data) => {
-    logger.logInfo("[MOD] AR-45");
+    logger.logInfo("[MOD] AR45");
 	// we gonna edit cache files in order to add everything - we also not gonna use lateLoaded flag so thsi script will be loaded just after cache is created
 	
 	//disclaimer: a file name should be an "_id" of an item from items.json
@@ -66,5 +66,5 @@ exports.mod = (mod_data) => {
 	fileIO.write(PathResolver('user/cache/locale_en.json'), locale_en, true);
 	fileIO.write(PathResolver('user/cache/templates.json'), templates, true);
 	
-	logger.logSuccess("[MOD] AR-45; Applied");
+	logger.logSuccess("[MOD] AR45; Applied");
 }
