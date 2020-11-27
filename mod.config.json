@@ -1,9 +1,9 @@
 {
-    "name": "AMR",
+    "name": "AR45",
     "author": "life",
-    "description": "Anti-Material Rifle",
+    "description": "",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "dependencies": [],
     "autoupdate": true,
     "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-AR-45-/main/updater.json",

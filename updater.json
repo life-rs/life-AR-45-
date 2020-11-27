@@ -1,7 +1,7 @@
 {
-    "name": "LifeMechanisms",
+    "name": "AR45",
     "author": "life",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "forceDowngrade": false,
     "downloadUpdateUrl": "https://github.com/life-rs/life-AR-45-/archive/main.zip",
     "excludeFromUpdate": [
